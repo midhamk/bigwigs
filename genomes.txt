@@ -1,2 +1,2 @@
 genome mm10
-trackDb myDirectory/trackDb.txt
+trackDb trackDb.txt
