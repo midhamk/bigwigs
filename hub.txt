@@ -1,0 +1,5 @@
+hub my_hub 
+shortLabel my hub short label
+longLabel my hub longer label
+genomesFile genomes.txt
+email sahir.mohit@gmail.com
