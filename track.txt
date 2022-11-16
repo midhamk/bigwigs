@@ -1,0 +1,15 @@
+http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g1.1.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g1.2.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g1.3.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g1.4.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g2.1.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g2.2.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g2.3.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g2.4.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.WT.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/SN101.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/SN102.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/SN103.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/SH101.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/SH102.bw
+http://130.91.192.180:1234/folders/sf_bigwigs/SH103.bw
