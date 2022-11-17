@@ -4,7 +4,7 @@ shortLabel ChIPseq.iWAT.g1.1
 longLabel ChIPseq.iWAT.g1.1
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g1.2
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g1.2.bw
@@ -12,7 +12,7 @@ shortLabel ChIPseq.iWAT.g1.2
 longLabel ChIPseq.iWAT.g1.2
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g1.3
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g1.3.bw
