@@ -2,5 +2,5 @@ hub my_hub
 shortLabel PPARG data
 longLabel PPARG1-2 chipseq HFD RNA-seq
 genomesFile https://raw.githubusercontent.com/midhamk/bigwigs/main/genomes2.txt
-descriptionUrl https://raw.githubusercontent.com/midhamk/bigwigs/main/genomes2.txt
+descriptionUrl https://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 email sahir.mohit@gmail.com
