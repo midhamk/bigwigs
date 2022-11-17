@@ -1,2 +1,0 @@
-genome mm10
-trackDb https://raw.githubusercontent.com/midhamk/bigwigs/main/trackDb_v2.txt
