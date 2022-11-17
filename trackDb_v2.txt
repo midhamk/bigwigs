@@ -14,6 +14,22 @@ configurable on
 autoScale on
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
+track ChIPseq.iWAT.g2
+container multiWig
+shortLabel ChIPseq.iWAT.g2
+longLabel ChIPseq.iWAT.g2
+type bigWig 0 30000
+viewLimits 0:100
+visibility full
+maxHeightPixels 150:30:11
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+windowingFunction mean
+priority 1.4
+configurable on
+autoScale on
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+
 track ChIPseq.iWAT.g1.1
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g1.1.bw
 shortLabel ChIPseq.iWAT.g1.1
@@ -56,6 +72,7 @@ shortLabel ChIPseq.iWAT.g2.1
 longLabel ChIPseq.iWAT.g2.1
 type bigWig
 color 125,0,0
+parent ChIPseq.iWAT.g2
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g2.2
@@ -64,6 +81,7 @@ shortLabel ChIPseq.iWAT.g2.2
 longLabel ChIPseq.iWAT.g2.2
 type bigWig
 color 125,0,0
+parent ChIPseq.iWAT.g2
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g2.3
@@ -71,6 +89,7 @@ bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g2.3.bw
 shortLabel ChIPseq.iWAT.g2.3
 longLabel ChIPseq.iWAT.g2.3
 type bigWig
+parent ChIPseq.iWAT.g2
 color 125,0,0
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
@@ -80,6 +99,7 @@ shortLabel ChIPseq.iWAT.g2.4
 longLabel ChIPseq.iWAT.g2.4
 type bigWig
 color 125,0,0
+parent ChIPseq.iWAT.g2
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.WT
