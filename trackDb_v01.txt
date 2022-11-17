@@ -37,6 +37,7 @@ longLabel ChIPseq.iWAT.g1.1
 type bigWig
 color 125,0,0
 parent ChIPseq.iWAT.g1
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g1.2
@@ -46,6 +47,7 @@ longLabel ChIPseq.iWAT.g1.2
 type bigWig
 color 125,0,0
 parent ChIPseq.iWAT.g1
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g1.3
@@ -55,6 +57,7 @@ longLabel ChIPseq.iWAT.g1.3
 type bigWig
 color 125,0,0
 parent ChIPseq.iWAT.g1
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g1.4
@@ -64,6 +67,7 @@ longLabel ChIPseq.iWAT.g1.4
 type bigWig
 color 125,0,0
 parent ChIPseq.iWAT.g1
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g2.1
@@ -73,6 +77,7 @@ longLabel ChIPseq.iWAT.g2.1
 type bigWig
 color 125,0,0
 parent ChIPseq.iWAT.g2
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g2.2
@@ -82,6 +87,7 @@ longLabel ChIPseq.iWAT.g2.2
 type bigWig
 color 125,0,0
 parent ChIPseq.iWAT.g2
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g2.3
@@ -90,6 +96,7 @@ shortLabel ChIPseq.iWAT.g2.3
 longLabel ChIPseq.iWAT.g2.3
 type bigWig
 parent ChIPseq.iWAT.g2
+visibility hide
 color 125,0,0
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
@@ -100,6 +107,7 @@ longLabel ChIPseq.iWAT.g2.4
 type bigWig
 color 125,0,0
 parent ChIPseq.iWAT.g2
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.WT
@@ -110,12 +118,46 @@ type bigWig
 color 125,0,0
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
+track SHAM_NCD_RNASEQ
+container multiWig
+shortLabel SHAM_NCD_RNASEQ
+longLabel SHAM_NCD_RNASEQ
+type bigWig 0 30000
+viewLimits 0:100
+visibility full
+maxHeightPixels 150:30:11
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+windowingFunction mean
+priority 1.4
+configurable on
+autoScale on
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+
+track SHAM_HFD_RNASEQ
+container multiWig
+shortLabel SHAM_HFD_RNASEQ
+longLabel SHAM_HFD_RNASEQ
+type bigWig 0 30000
+viewLimits 0:100
+visibility full
+maxHeightPixels 150:30:11
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+windowingFunction mean
+priority 1.4
+configurable on
+autoScale on
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+
 track SN101
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/SN101.bw
 shortLabel SN101
 longLabel SN101
 type bigWig
 color 125,0,0
+parent SHAM_NCD_RNASEQ
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track SN102
@@ -124,6 +166,8 @@ shortLabel SN102
 longLabel SN102
 type bigWig
 color 125,0,0
+parent SHAM_NCD_RNASEQ
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track SN103
@@ -132,6 +176,8 @@ shortLabel SN103
 longLabel SN103
 type bigWig
 color 125,0,0
+parent SHAM_NCD_RNASEQ
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track SH101
@@ -140,6 +186,8 @@ shortLabel SH101
 longLabel SH101
 type bigWig
 color 125,0,0
+parent SHAM_HFD_RNASEQ
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track SH102
@@ -148,6 +196,8 @@ shortLabel SH102
 longLabel SH102
 type bigWig
 color 125,0,0
+parent SHAM_HFD_RNASEQ
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track SH103
@@ -156,4 +206,6 @@ shortLabel SH103
 longLabel SH103
 type bigWig
 color 125,0,0
+parent SHAM_HFD_RNASEQ
+visibility hide
 html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
