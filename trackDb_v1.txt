@@ -12,7 +12,7 @@ windowingFunction mean
 priority 1.4
 configurable on
 autoScale on
-
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g1.1
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g1.1.bw
