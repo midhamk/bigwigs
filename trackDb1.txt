@@ -20,7 +20,7 @@ shortLabel ChIPseq.iWAT.g1.3
 longLabel ChIPseq.iWAT.g1.3
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g1.4
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g1.4.bw
@@ -28,7 +28,7 @@ shortLabel ChIPseq.iWAT.g1.4
 longLabel ChIPseq.iWAT.g1.4
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g2.1
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g2.1.bw
@@ -36,7 +36,7 @@ shortLabel ChIPseq.iWAT.g2.1
 longLabel ChIPseq.iWAT.g2.1
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g2.2
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g2.2.bw
@@ -44,7 +44,7 @@ shortLabel ChIPseq.iWAT.g2.2
 longLabel ChIPseq.iWAT.g2.2
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g2.3
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g2.3.bw
@@ -52,7 +52,7 @@ shortLabel ChIPseq.iWAT.g2.3
 longLabel ChIPseq.iWAT.g2.3
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.g2.4
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.g2.4.bw
@@ -60,7 +60,7 @@ shortLabel ChIPseq.iWAT.g2.4
 longLabel ChIPseq.iWAT.g2.4
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track ChIPseq.iWAT.WT
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/ChIPseq.iWAT.WT.bw
@@ -68,7 +68,7 @@ shortLabel ChIPseq.iWAT.WT
 longLabel ChIPseq.iWAT.WT
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track SN101
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/SN101.bw
@@ -76,7 +76,7 @@ shortLabel SN101
 longLabel SN101
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track SN102
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/SN102.bw
@@ -84,7 +84,7 @@ shortLabel SN102
 longLabel SN102
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track SN103
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/SN103.bw
@@ -92,7 +92,7 @@ shortLabel SN103
 longLabel SN103
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track SH101
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/SH101.bw
@@ -100,7 +100,7 @@ shortLabel SH101
 longLabel SH101
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track SH102
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/SH102.bw
@@ -108,7 +108,7 @@ shortLabel SH102
 longLabel SH102
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
 
 track SH103
 bigDataUrl http://130.91.192.180:1234/folders/sf_bigwigs/SH103.bw
@@ -116,4 +116,4 @@ shortLabel SH103
 longLabel SH103
 type bigWig
 color 125,0,0
-descriptionUrl http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
+html http://raw.githubusercontent.com/midhamk/bigwigs/main/genomes1.html
